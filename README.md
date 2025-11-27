@@ -1,4 +1,4 @@
-# Full-Scale-E-Commerce-Revenue-Product-Performance-Monitoring-Dashboard
+# FullScale E-Commerce Revenue Product Performance Monitoring-Dashboard
 Excel interactive Dashboard | Mohammed Sufiyan
 ![Dashboard Preview](./Sufiyan_Malik_2.PNG)
 
