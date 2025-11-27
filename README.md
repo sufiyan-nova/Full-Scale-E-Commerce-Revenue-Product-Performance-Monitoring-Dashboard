@@ -1,5 +1,7 @@
 # Full-Scale-E-Commerce-Revenue-Product-Performance-Monitoring-Dashboard
 Excel interactive Dashboard | Mohammed Sufiyan
+![Dashboard Preview](./Sufiyan_Malik_2.PNG)
+
 	
 	🔍 Project Overview
 This project is an Excel dashboard I created to explore and understand e-commerce sales data.
